@@ -271,6 +271,7 @@ ask on the [gitter chat](https://gitter.im/python/typing) for ideas of good
 beginner issues.
 
 For more details, see the file [CONTRIBUTING.md](CONTRIBUTING.md).
+🤚💎
 
 
 License
